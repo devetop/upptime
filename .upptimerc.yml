@@ -7,8 +7,8 @@ sites:
     url: https://bisacloud.com
   - name: Bisacloud Blog
     url: https://bisacloud.my.id
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Dewa Kamera
+    url: https://dewakamera.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
