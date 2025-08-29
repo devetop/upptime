@@ -7,10 +7,12 @@ sites:
     url: https://bisacloud.com
   - name: Bisacloud Blog
     url: https://bisacloud.my.id
+  - name: Erfan Portofolio
+    url: https://rfan.my.id
   - name: Dewa Kamera
     url: https://dewakamera.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IDwebhost
+    url: https://idwebhost.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
