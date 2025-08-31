@@ -58,19 +58,19 @@
     "url": "https://dewakamera.com",
     "icon": "https://icons.duckduckgo.com/ip3/dewakamera.com.ico",
     "slug": "dewa-kamera",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 1429,
-    "timeWeek": 1776,
-    "timeMonth": 1776,
-    "timeYear": 1776,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 1742,
+    "timeDay": 1476,
+    "timeWeek": 1742,
+    "timeMonth": 1742,
+    "timeYear": 1742,
     "dailyMinutesDown": {
-      "2025-08-31": 0
+      "2025-08-31": 16
     }
   },
   {
