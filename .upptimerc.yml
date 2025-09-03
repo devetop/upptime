@@ -13,8 +13,10 @@ sites:
     url: https://dewakamera.com
   - name: IDwebhost
     url: https://idwebhost.com
+  - name: PintarTekno.ID
+    url: https://pintartekno.id/
   - name: IPv6 test
-    url: forwardemail.net
+    url: hipwee.com
     port: 80
     check: "tcp-ping"
     ipv6: true
