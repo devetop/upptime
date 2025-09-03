@@ -14,9 +14,9 @@ sites:
   - name: IDwebhost
     url: https://idwebhost.com
   - name: PintarTekno.ID
-    url: https://pintartekno.id/
+    url: https://pintartekno.id
   - name: IPv6 test
-    url: hipwee.com
+    url: github.com
     port: 80
     check: "tcp-ping"
     ipv6: true
