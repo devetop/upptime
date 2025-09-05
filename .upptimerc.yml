@@ -17,7 +17,7 @@ sites:
     url: https://pintartekno.id
   - name: IPv6 test
     url: github.com
-    port: 80
+    port: 53
     check: "tcp-ping"
     ipv6: true
 
