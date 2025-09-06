@@ -15,10 +15,16 @@ sites:
     url: https://idwebhost.com
   - name: PintarTekno.ID
     url: https://pintartekno.id
-  - name: IPv6 test
-    url: github.com
-    port: 53
+  - name: Tonjoo
+    url: https://tonjoo.com
+  - name: Future Skills
+    url: https://futureskills.id
+  - name: Polygon Bikes
+    url: https://www.polygonbikes.com
+  - name: Google DNS
     check: "tcp-ping"
+    url: dns.google
+    port: 53
     ipv6: true
 
 status-website:
