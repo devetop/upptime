@@ -80,19 +80,19 @@
     "url": "https://idwebhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/idwebhost.com.ico",
     "slug": "i-dwebhost",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1507,
-    "timeDay": 1461,
-    "timeWeek": 1480,
-    "timeMonth": 1507,
-    "timeYear": 1507,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1516,
+    "timeDay": 1506,
+    "timeWeek": 1492,
+    "timeMonth": 1516,
+    "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-09-07": 0
+      "2025-09-07": 23
     }
   },
   {
