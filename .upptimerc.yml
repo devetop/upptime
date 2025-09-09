@@ -21,6 +21,8 @@ sites:
     url: https://futureskills.id
   - name: Polygon Bikes
     url: https://www.polygonbikes.com
+  - name: Taiga
+    url: https://tree.taiga.io
   # - name: Google DNS
   #   check: "tcp-ping"
   #   url: dns.google
