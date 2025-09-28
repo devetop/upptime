@@ -162,19 +162,19 @@
     "url": "https://www.polygonbikes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.polygonbikes.com.ico",
     "slug": "polygon-bikes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1582,
-    "timeDay": 1231,
-    "timeWeek": 1571,
-    "timeMonth": 1582,
-    "timeYear": 1582,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1587,
+    "timeDay": 1398,
+    "timeWeek": 1589,
+    "timeMonth": 1587,
+    "timeYear": 1587,
     "dailyMinutesDown": {
-      "2025-09-28": 0
+      "2025-09-28": 13
     }
   },
   {
