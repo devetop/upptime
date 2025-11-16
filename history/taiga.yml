@@ -1,7 +1,7 @@
 url: https://tree.taiga.io
-status: down
-code: 403
-responseTime: 465
-lastUpdated: 2025-11-16T11:25:49.758Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2025-11-16T11:40:10.756Z
 startTime: 2025-09-09T17:09:44.450Z
 generator: Upptime <https://github.com/upptime/upptime>
