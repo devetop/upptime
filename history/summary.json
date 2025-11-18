@@ -4,18 +4,20 @@
     "url": "https://bisacloud.com",
     "icon": "https://icons.duckduckgo.com/ip3/bisacloud.com.ico",
     "slug": "bisacloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 97,
-    "timeWeek": 180,
-    "timeMonth": 162,
-    "timeYear": 169,
-    "dailyMinutesDown": {}
+    "time": 168,
+    "timeDay": 114,
+    "timeWeek": 174,
+    "timeMonth": 161,
+    "timeYear": 168,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Bisacloud Blog",
@@ -76,18 +78,20 @@
     "url": "https://idwebhost.com",
     "icon": "https://icons.duckduckgo.com/ip3/idwebhost.com.ico",
     "slug": "i-dwebhost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1651,
-    "timeDay": 858,
-    "timeWeek": 1051,
-    "timeMonth": 1533,
-    "timeYear": 1651,
-    "dailyMinutesDown": {}
+    "time": 1638,
+    "timeDay": 453,
+    "timeWeek": 926,
+    "timeMonth": 1504,
+    "timeYear": 1638,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "PintarTekno.ID",
