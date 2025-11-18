@@ -44,19 +44,19 @@
     "url": "https://rfan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rfan.my.id.ico",
     "slug": "erfan-portofolio",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.94%",
-    "time": 379,
-    "timeDay": 263,
-    "timeWeek": 325,
-    "timeMonth": 355,
-    "timeYear": 379,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.93%",
+    "time": 381,
+    "timeDay": 341,
+    "timeWeek": 344,
+    "timeMonth": 360,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-11-18": 69
+      "2025-11-18": 84
     }
   },
   {
