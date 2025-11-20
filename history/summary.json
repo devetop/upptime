@@ -65,13 +65,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/dewakamera.com.ico",
     "slug": "dewa-kamera",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "96.22%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.95%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1646,
-    "timeDay": 1758,
+    "timeDay": 1760,
     "timeWeek": 1619,
     "timeMonth": 1673,
     "timeYear": 1646,
@@ -94,7 +94,7 @@
     "time": 1611,
     "timeDay": 1118,
     "timeWeek": 891,
-    "timeMonth": 1466,
+    "timeMonth": 1492,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2025-11-18": 127
@@ -143,9 +143,9 @@
     "url": "https://futureskills.id",
     "icon": "https://icons.duckduckgo.com/ip3/futureskills.id.ico",
     "slug": "future-skills",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,7 +154,9 @@
     "timeWeek": 1566,
     "timeMonth": 1713,
     "timeYear": 1691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-20": 0
+    }
   },
   {
     "name": "Polygon Bikes",
@@ -187,7 +189,7 @@
     "uptimeYear": "99.89%",
     "time": 856,
     "timeDay": 865,
-    "timeWeek": 803,
+    "timeWeek": 804,
     "timeMonth": 806,
     "timeYear": 856,
     "dailyMinutesDown": {
