@@ -143,19 +143,19 @@
     "url": "https://futureskills.id",
     "icon": "https://icons.duckduckgo.com/ip3/futureskills.id.ico",
     "slug": "future-skills",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1691,
-    "timeDay": 1586,
-    "timeWeek": 1566,
-    "timeMonth": 1713,
-    "timeYear": 1691,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.97%",
+    "time": 1752,
+    "timeDay": 4105,
+    "timeWeek": 2198,
+    "timeMonth": 1862,
+    "timeYear": 1752,
     "dailyMinutesDown": {
-      "2025-11-20": 0
+      "2025-11-20": 33
     }
   },
   {
@@ -189,7 +189,7 @@
     "uptimeYear": "99.89%",
     "time": 856,
     "timeDay": 865,
-    "timeWeek": 804,
+    "timeWeek": 797,
     "timeMonth": 806,
     "timeYear": 856,
     "dailyMinutesDown": {
